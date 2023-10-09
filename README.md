@@ -10,3 +10,7 @@ pip install -r requirements.txt
 ```
 ## Runing
 Ganti Nama file mentah.csv sesuai dengan file export query sql anda
+```bash
+python olah.py
+
+```
