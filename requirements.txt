@@ -1,1 +1,3 @@
 fuzzywuzzy
+openpyxl
+pandas
