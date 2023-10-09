@@ -1,0 +1,3164 @@
+[
+    {
+        "no": "1",
+        "id": "10000",
+        "code": "10100",
+        "name": "Kab. Kepulauan Seribu"
+    },
+    {
+        "no": "2",
+        "id": "10000",
+        "code": "16000",
+        "name": "Kota Jakarta Pusat"
+    },
+    {
+        "no": "3",
+        "id": "10000",
+        "code": "16100",
+        "name": "Kota Jakarta Utara"
+    },
+    {
+        "no": "4",
+        "id": "10000",
+        "code": "16200",
+        "name": "Kota Jakarta Barat"
+    },
+    {
+        "no": "5",
+        "id": "10000",
+        "code": "16300",
+        "name": "Kota Jakarta Selatan"
+    },
+    {
+        "no": "6",
+        "id": "10000",
+        "code": "16400",
+        "name": "Kota Jakarta Timur"
+    },
+    {
+        "no": "7",
+        "id": "20000",
+        "code": "20500",
+        "name": "Kab. Bogor"
+    },
+    {
+        "no": "8",
+        "id": "50000",
+        "code": "51900",
+        "name": "Kab. Pasuruan"
+    },
+    {
+        "no": "9",
+        "id": "50000",
+        "code": "52900",
+        "name": "Kab. Bangkalan"
+    },
+    {
+        "no": "10",
+        "id": "50000",
+        "code": "56000",
+        "name": "Kota Surabaya"
+    },
+    {
+        "no": "11",
+        "id": "90000",
+        "code": "91000",
+        "name": "Kab. Rokan Hilir"
+    },
+    {
+        "no": "12",
+        "id": "90000",
+        "code": "91100",
+        "name": "Kab. Siak"
+    },
+    {
+        "no": "13",
+        "id": "100000",
+        "code": "100600",
+        "name": "Kab. Tebo"
+    },
+    {
+        "no": "14",
+        "id": "100000",
+        "code": "100700",
+        "name": "Kab. Muaro Jambi"
+    },
+    {
+        "no": "15",
+        "id": "100000",
+        "code": "100800",
+        "name": "Kab. Tanjung Jabung Timur"
+    },
+    {
+        "no": "16",
+        "id": "200000",
+        "code": "200700",
+        "name": "Kab. Bombana"
+    },
+    {
+        "no": "17",
+        "id": "200000",
+        "code": "200800",
+        "name": "Kab. Kolaka Utara"
+    },
+    {
+        "no": "18",
+        "id": "210000",
+        "code": "210700",
+        "name": "Kab. Kepulauan Aru"
+    },
+    {
+        "no": "19",
+        "id": "210000",
+        "code": "210800",
+        "name": "Kab. Maluku Barat Daya"
+    },
+    {
+        "no": "20",
+        "id": "320000",
+        "code": "326000",
+        "name": "Kota Sorong"
+    },
+    {
+        "no": "21",
+        "id": "330000",
+        "code": "330100",
+        "name": "Kab. Mamuju"
+    },
+    {
+        "no": "22",
+        "id": "330000",
+        "code": "330200",
+        "name": "Kab. Pasangkayu"
+    },
+    {
+        "no": "23",
+        "id": "350000",
+        "code": "350400",
+        "name": "Malaysia"
+    },
+    {
+        "no": "24",
+        "id": "350000",
+        "code": "350500",
+        "name": "Myanmar"
+    },
+    {
+        "no": "25",
+        "id": "350000",
+        "code": "350600",
+        "name": "Filipina"
+    },
+    {
+        "no": "26",
+        "id": "350000",
+        "code": "350700",
+        "name": "Rusia"
+    },
+    {
+        "no": "27",
+        "id": "350000",
+        "code": "350800",
+        "name": "Arab Saudi"
+    },
+    {
+        "no": "28",
+        "id": "50000",
+        "code": "50700",
+        "name": "Kab. Lamongan"
+    },
+    {
+        "no": "29",
+        "id": "50000",
+        "code": "51400",
+        "name": "Kab. Nganjuk"
+    },
+    {
+        "no": "30",
+        "id": "50000",
+        "code": "51500",
+        "name": "Kab. Blitar"
+    },
+    {
+        "no": "31",
+        "id": "90000",
+        "code": "90400",
+        "name": "Kab. Indragiri Hulu"
+    },
+    {
+        "no": "32",
+        "id": "90000",
+        "code": "90500",
+        "name": "Kab. Indragiri Hilir"
+    },
+    {
+        "no": "33",
+        "id": "100000",
+        "code": "100200",
+        "name": "Kab. Bungo"
+    },
+    {
+        "no": "34",
+        "id": "100000",
+        "code": "100300",
+        "name": "Kab. Sarolangun"
+    },
+    {
+        "no": "35",
+        "id": "200000",
+        "code": "200300",
+        "name": "Kab. Buton"
+    },
+    {
+        "no": "36",
+        "id": "200000",
+        "code": "200400",
+        "name": "Kab. Kolaka"
+    },
+    {
+        "no": "37",
+        "id": "210000",
+        "code": "210200",
+        "name": "Kab. Maluku Tenggara"
+    },
+    {
+        "no": "38",
+        "id": "300000",
+        "code": "300200",
+        "name": "Kab. Gorontalo"
+    },
+    {
+        "no": "39",
+        "id": "300000",
+        "code": "300300",
+        "name": "Kab. Pohuwato"
+    },
+    {
+        "no": "40",
+        "id": "300000",
+        "code": "300400",
+        "name": "Kab. Bone Bolango"
+    },
+    {
+        "no": "41",
+        "id": "320000",
+        "code": "320700",
+        "name": "Kab. Sorong"
+    },
+    {
+        "no": "42",
+        "id": "50000",
+        "code": "50200",
+        "name": "Kab. Sidoarjo"
+    },
+    {
+        "no": "43",
+        "id": "50000",
+        "code": "50800",
+        "name": "Kab. Madiun"
+    },
+    {
+        "no": "44",
+        "id": "80000",
+        "code": "80400",
+        "name": "Kab. Solok"
+    },
+    {
+        "no": "45",
+        "id": "90000",
+        "code": "90800",
+        "name": "Kab. Pelalawan"
+    },
+    {
+        "no": "46",
+        "id": "180000",
+        "code": "181000",
+        "name": "Kab. Sigi"
+    },
+    {
+        "no": "47",
+        "id": "190000",
+        "code": "192400",
+        "name": "Kab. Luwu Utara"
+    },
+    {
+        "no": "48",
+        "id": "190000",
+        "code": "192600",
+        "name": "Kab. Luwu Timur"
+    },
+    {
+        "no": "49",
+        "id": "270000",
+        "code": "276100",
+        "name": "Kota Tidore Kepulauan"
+    },
+    {
+        "no": "50",
+        "id": "280000",
+        "code": "280100",
+        "name": "Kab. Pandeglang"
+    },
+    {
+        "no": "51",
+        "id": "300000",
+        "code": "300500",
+        "name": "Kab. Gorontalo Utara"
+    },
+    {
+        "no": "52",
+        "id": "50000",
+        "code": "50400",
+        "name": "Kab. Jombang"
+    },
+    {
+        "no": "53",
+        "id": "50000",
+        "code": "50500",
+        "name": "Kab. Bojonegoro"
+    },
+    {
+        "no": "54",
+        "id": "50000",
+        "code": "51000",
+        "name": "Kab. Magetan"
+    },
+    {
+        "no": "55",
+        "id": "70000",
+        "code": "72100",
+        "name": "Kab. Serdang Bedagai"
+    },
+    {
+        "no": "56",
+        "id": "70000",
+        "code": "72200",
+        "name": "Kab. Batubara"
+    },
+    {
+        "no": "57",
+        "id": "70000",
+        "code": "72300",
+        "name": "Kab. Padang Lawas utara"
+    },
+    {
+        "no": "58",
+        "id": "80000",
+        "code": "80700",
+        "name": "Kab. Tanah Datar"
+    },
+    {
+        "no": "59",
+        "id": "170000",
+        "code": "170200",
+        "name": "Kab. Minahasa"
+    },
+    {
+        "no": "60",
+        "id": "180000",
+        "code": "180300",
+        "name": "Kab. Poso"
+    },
+    {
+        "no": "61",
+        "id": "180000",
+        "code": "180400",
+        "name": "Kab. Banggai"
+    },
+    {
+        "no": "62",
+        "id": "250000",
+        "code": "253300",
+        "name": "kab. Puncak"
+    },
+    {
+        "no": "63",
+        "id": "260000",
+        "code": "260700",
+        "name": "Kab. Kaur"
+    },
+    {
+        "no": "64",
+        "id": "260000",
+        "code": "260800",
+        "name": "Kab. Seluma"
+    },
+    {
+        "no": "65",
+        "id": "260000",
+        "code": "260900",
+        "name": "Kab. Bengkulu Tengah"
+    },
+    {
+        "no": "66",
+        "id": "40000",
+        "code": "40100",
+        "name": "Kab. Bantul"
+    },
+    {
+        "no": "67",
+        "id": "40000",
+        "code": "40200",
+        "name": "Kab. Sleman"
+    },
+    {
+        "no": "68",
+        "id": "40000",
+        "code": "40300",
+        "name": "Kab. Gunung Kidul"
+    },
+    {
+        "no": "69",
+        "id": "70000",
+        "code": "72800",
+        "name": "Kab. Nias Utara"
+    },
+    {
+        "no": "70",
+        "id": "70000",
+        "code": "76000",
+        "name": "Kota Medan"
+    },
+    {
+        "no": "71",
+        "id": "70000",
+        "code": "76100",
+        "name": "Kota Binjai"
+    },
+    {
+        "no": "72",
+        "id": "80000",
+        "code": "86500",
+        "name": "Kota Payakumbuh"
+    },
+    {
+        "no": "73",
+        "id": "80000",
+        "code": "86600",
+        "name": "Kota Pariaman"
+    },
+    {
+        "no": "74",
+        "id": "90000",
+        "code": "90100",
+        "name": "Kab. Kampar"
+    },
+    {
+        "no": "75",
+        "id": "180000",
+        "code": "180500",
+        "name": "Kab. Buol"
+    },
+    {
+        "no": "76",
+        "id": "180000",
+        "code": "180600",
+        "name": "Kab. Tolitoli"
+    },
+    {
+        "no": "77",
+        "id": "180000",
+        "code": "180700",
+        "name": "Kab. Morowali"
+    },
+    {
+        "no": "78",
+        "id": "190000",
+        "code": "191400",
+        "name": "Kab. Pinrang"
+    },
+    {
+        "no": "79",
+        "id": "250000",
+        "code": "253400",
+        "name": "Kab. Dogiyai"
+    },
+    {
+        "no": "80",
+        "id": "250000",
+        "code": "253500",
+        "name": "Kab. Deiyai"
+    },
+    {
+        "no": "81",
+        "id": "250000",
+        "code": "253600",
+        "name": "Kab. Intan Jaya"
+    },
+    {
+        "no": "82",
+        "id": "250000",
+        "code": "256000",
+        "name": "Kota Jayapura"
+    },
+    {
+        "no": "83",
+        "id": "260000",
+        "code": "260100",
+        "name": "Kab. Bengkulu Utara"
+    },
+    {
+        "no": "84",
+        "id": "60000",
+        "code": "60100",
+        "name": "Kab. Aceh Besar"
+    },
+    {
+        "no": "85",
+        "id": "60000",
+        "code": "61500",
+        "name": "Kab. Nagan Raya"
+    },
+    {
+        "no": "86",
+        "id": "60000",
+        "code": "61600",
+        "name": "Kab. Aceh Jaya"
+    },
+    {
+        "no": "87",
+        "id": "60000",
+        "code": "61700",
+        "name": "Kab. Aceh Barat Daya"
+    },
+    {
+        "no": "88",
+        "id": "200000",
+        "code": "201400",
+        "name": "Kab. Buton Selatan"
+    },
+    {
+        "no": "89",
+        "id": "200000",
+        "code": "201600",
+        "name": "Kab. Buton Tengah"
+    },
+    {
+        "no": "90",
+        "id": "200000",
+        "code": "206000",
+        "name": "Kota Kendari"
+    },
+    {
+        "no": "91",
+        "id": "240000",
+        "code": "240700",
+        "name": "Kab. Flores Timur"
+    },
+    {
+        "no": "92",
+        "id": "240000",
+        "code": "240800",
+        "name": "Kab. Sikka"
+    },
+    {
+        "no": "93",
+        "id": "70000",
+        "code": "72400",
+        "name": "Kab. Padang Lawas"
+    },
+    {
+        "no": "94",
+        "id": "110000",
+        "code": "110100",
+        "name": "Kab. Musi Banyuasin"
+    },
+    {
+        "no": "95",
+        "id": "30000",
+        "code": "32800",
+        "name": "Kab. Tegal"
+    },
+    {
+        "no": "96",
+        "id": "30000",
+        "code": "32900",
+        "name": "Kab. Brebes"
+    },
+    {
+        "no": "97",
+        "id": "50000",
+        "code": "52200",
+        "name": "Kab. Bondowoso"
+    },
+    {
+        "no": "98",
+        "id": "280000",
+        "code": "286200",
+        "name": "Kota Serang"
+    },
+    {
+        "no": "99",
+        "id": "280000",
+        "code": "286300",
+        "name": "Kota Tangerang Selatan"
+    },
+    {
+        "no": "100",
+        "id": "290000",
+        "code": "290100",
+        "name": "Kab. Bangka"
+    },
+    {
+        "no": "101",
+        "id": "290000",
+        "code": "290200",
+        "name": "Kab. Belitung"
+    },
+    {
+        "no": "102",
+        "id": "290000",
+        "code": "290300",
+        "name": "Kab. Bangka Tengah"
+    },
+    {
+        "no": "103",
+        "id": "240000",
+        "code": "241800",
+        "name": "Kab. Sumba Tengah"
+    },
+    {
+        "no": "104",
+        "id": "240000",
+        "code": "240600",
+        "name": "Kab. Alor"
+    },
+    {
+        "no": "105",
+        "id": "320000",
+        "code": "321000",
+        "name": "Kab. Maybrat"
+    },
+    {
+        "no": "106",
+        "id": "320000",
+        "code": "320900",
+        "name": "Kab. Tambrauw"
+    },
+    {
+        "no": "107",
+        "id": "250000",
+        "code": "250700",
+        "name": "Kab. Merauke"
+    },
+    {
+        "no": "108",
+        "id": "20000",
+        "code": "20700",
+        "name": "Kab. Cianjur"
+    },
+    {
+        "no": "109",
+        "id": "20000",
+        "code": "20800",
+        "name": "Kab. Bandung"
+    },
+    {
+        "no": "110",
+        "id": "110000",
+        "code": "116000",
+        "name": "Kota Palembang"
+    },
+    {
+        "no": "111",
+        "id": "110000",
+        "code": "116100",
+        "name": "Kota Prabumulih"
+    },
+    {
+        "no": "112",
+        "id": "120000",
+        "code": "121300",
+        "name": "Kab. Pesisir Barat"
+    },
+    {
+        "no": "113",
+        "id": "120000",
+        "code": "126000",
+        "name": "Kota Bandar Lampung"
+    },
+    {
+        "no": "114",
+        "id": "120000",
+        "code": "126100",
+        "name": "Kota Metro"
+    },
+    {
+        "no": "115",
+        "id": "350000",
+        "code": "351200",
+        "name": "Thailand"
+    },
+    {
+        "no": "116",
+        "id": "350000",
+        "code": "351300",
+        "name": "Taiwan"
+    },
+    {
+        "no": "117",
+        "id": "350000",
+        "code": "351400",
+        "name": "Cina"
+    },
+    {
+        "no": "118",
+        "id": "350000",
+        "code": "351500",
+        "name": "Brunei Darussalam"
+    },
+    {
+        "no": "119",
+        "id": "130000",
+        "code": "130600",
+        "name": "Kab. Ketapang"
+    },
+    {
+        "no": "120",
+        "id": "30000",
+        "code": "36100",
+        "name": "Kota Surakarta"
+    },
+    {
+        "no": "121",
+        "id": "130000",
+        "code": "130500",
+        "name": "Kab. Kapuas Hulu"
+    },
+    {
+        "no": "122",
+        "id": "20000",
+        "code": "20600",
+        "name": "Kab. Sukabumi"
+    },
+    {
+        "no": "123",
+        "id": "100000",
+        "code": "100400",
+        "name": "Kab. Tanjung Jabung Barat"
+    },
+    {
+        "no": "124",
+        "id": "100000",
+        "code": "100500",
+        "name": "Kab. Kerinci"
+    },
+    {
+        "no": "125",
+        "id": "110000",
+        "code": "110800",
+        "name": "Kab. Ogan Komering Ulu Timur"
+    },
+    {
+        "no": "126",
+        "id": "110000",
+        "code": "110900",
+        "name": "Kab. Ogan Komering Ulu Selatan"
+    },
+    {
+        "no": "127",
+        "id": "330000",
+        "code": "330500",
+        "name": "Kab. Majene"
+    },
+    {
+        "no": "128",
+        "id": "330000",
+        "code": "330600",
+        "name": "Kab. Mamuju Tengah"
+    },
+    {
+        "no": "129",
+        "id": "340000",
+        "code": "340100",
+        "name": "Kab. Malinau"
+    },
+    {
+        "no": "130",
+        "id": "340000",
+        "code": "340200",
+        "name": "Kab. Bulungan"
+    },
+    {
+        "no": "131",
+        "id": "340000",
+        "code": "340300",
+        "name": "Kab. Tana Tidung"
+    },
+    {
+        "no": "132",
+        "id": "90000",
+        "code": "90900",
+        "name": "Kab. Rokan Hulu"
+    },
+    {
+        "no": "133",
+        "id": "300000",
+        "code": "306000",
+        "name": "Kota Gorontalo"
+    },
+    {
+        "no": "134",
+        "id": "310000",
+        "code": "310100",
+        "name": "Kab. Bintan"
+    },
+    {
+        "no": "135",
+        "id": "310000",
+        "code": "310200",
+        "name": "Kab. Karimun"
+    },
+    {
+        "no": "136",
+        "id": "320000",
+        "code": "320800",
+        "name": "Kab. Raja Ampat"
+    },
+    {
+        "no": "137",
+        "id": "90000",
+        "code": "91400",
+        "name": "Kab. Kuantan Singingi"
+    },
+    {
+        "no": "138",
+        "id": "90000",
+        "code": "91500",
+        "name": "Kab. Kepulauan Meranti"
+    },
+    {
+        "no": "139",
+        "id": "100000",
+        "code": "100900",
+        "name": "Kab. Merangin"
+    },
+    {
+        "no": "140",
+        "id": "280000",
+        "code": "280200",
+        "name": "Kab. Lebak"
+    },
+    {
+        "no": "141",
+        "id": "280000",
+        "code": "280300",
+        "name": "Kab. Tangerang"
+    },
+    {
+        "no": "142",
+        "id": "90000",
+        "code": "90200",
+        "name": "Kab. Bengkalis"
+    },
+    {
+        "no": "143",
+        "id": "90000",
+        "code": "96000",
+        "name": "Kota Pekanbaru"
+    },
+    {
+        "no": "144",
+        "id": "90000",
+        "code": "96200",
+        "name": "Kota Dumai"
+    },
+    {
+        "no": "145",
+        "id": "270000",
+        "code": "270500",
+        "name": "Kab. Halmahera Selatan"
+    },
+    {
+        "no": "146",
+        "id": "290000",
+        "code": "290400",
+        "name": "Kab. Bangka Barat"
+    },
+    {
+        "no": "147",
+        "id": "290000",
+        "code": "290500",
+        "name": "Kab. Bangka Selatan"
+    },
+    {
+        "no": "148",
+        "id": "290000",
+        "code": "290600",
+        "name": "Kab. Belitung Timur"
+    },
+    {
+        "no": "149",
+        "id": "290000",
+        "code": "296000",
+        "name": "Kota Pangkalpinang"
+    },
+    {
+        "no": "150",
+        "id": "300000",
+        "code": "300100",
+        "name": "Kab. Boalemo"
+    },
+    {
+        "no": "151",
+        "id": "240000",
+        "code": "240900",
+        "name": "Kab. Ende"
+    },
+    {
+        "no": "152",
+        "id": "250000",
+        "code": "251600",
+        "name": "Kab. Yahukimo"
+    },
+    {
+        "no": "153",
+        "id": "250000",
+        "code": "251700",
+        "name": "Kab. Pegunungan Bintang"
+    },
+    {
+        "no": "154",
+        "id": "50000",
+        "code": "52300",
+        "name": "Kab. Situbondo"
+    },
+    {
+        "no": "155",
+        "id": "60000",
+        "code": "61400",
+        "name": "Kab. Aceh Tamiang"
+    },
+    {
+        "no": "156",
+        "id": "20000",
+        "code": "21500",
+        "name": "Kab. Kuningan"
+    },
+    {
+        "no": "157",
+        "id": "30000",
+        "code": "31600",
+        "name": "Kab. Blora"
+    },
+    {
+        "no": "158",
+        "id": "30000",
+        "code": "32300",
+        "name": "Kab. Temanggung"
+    },
+    {
+        "no": "159",
+        "id": "30000",
+        "code": "32400",
+        "name": "Kab. Kendal"
+    },
+    {
+        "no": "160",
+        "id": "60000",
+        "code": "60300",
+        "name": "Kab. Aceh Utara"
+    },
+    {
+        "no": "161",
+        "id": "70000",
+        "code": "70200",
+        "name": "Kab. Langkat"
+    },
+    {
+        "no": "162",
+        "id": "70000",
+        "code": "70900",
+        "name": "Kab. Tapanuli Tengah"
+    },
+    {
+        "no": "163",
+        "id": "70000",
+        "code": "71000",
+        "name": "Kab. Tapanuli Selatan"
+    },
+    {
+        "no": "164",
+        "id": "130000",
+        "code": "130100",
+        "name": "Kab. Sambas"
+    },
+    {
+        "no": "165",
+        "id": "130000",
+        "code": "131000",
+        "name": "Kab. Sekadau"
+    },
+    {
+        "no": "166",
+        "id": "130000",
+        "code": "131100",
+        "name": "Kab. Melawi"
+    },
+    {
+        "no": "167",
+        "id": "130000",
+        "code": "131200",
+        "name": "Kab. Kayong Utara"
+    },
+    {
+        "no": "168",
+        "id": "160000",
+        "code": "166000",
+        "name": "Kota Samarinda"
+    },
+    {
+        "no": "169",
+        "id": "160000",
+        "code": "166100",
+        "name": "Kota Balikpapan"
+    },
+    {
+        "no": "170",
+        "id": "160000",
+        "code": "166300",
+        "name": "Kota Bontang"
+    },
+    {
+        "no": "171",
+        "id": "170000",
+        "code": "170100",
+        "name": "Kab. Bolaang Mongondow"
+    },
+    {
+        "no": "172",
+        "id": "180000",
+        "code": "180100",
+        "name": "Kab. Banggai Kepulauan"
+    },
+    {
+        "no": "173",
+        "id": "180000",
+        "code": "180200",
+        "name": "Kab. Donggala"
+    },
+    {
+        "no": "174",
+        "id": "210000",
+        "code": "210900",
+        "name": "Kab. Buru Selatan"
+    },
+    {
+        "no": "175",
+        "id": "240000",
+        "code": "240300",
+        "name": "Kab. Timor Tengah Selatan"
+    },
+    {
+        "no": "176",
+        "id": "250000",
+        "code": "253000",
+        "name": "Kab. Lanny Jaya"
+    },
+    {
+        "no": "177",
+        "id": "250000",
+        "code": "253100",
+        "name": "Kab. Membramo Tengah"
+    },
+    {
+        "no": "178",
+        "id": "250000",
+        "code": "253200",
+        "name": "Kab. Yalimo"
+    },
+    {
+        "no": "179",
+        "id": "260000",
+        "code": "260500",
+        "name": "Kab. Kepahiang"
+    },
+    {
+        "no": "180",
+        "id": "260000",
+        "code": "260600",
+        "name": "Kab. Lebong"
+    },
+    {
+        "no": "181",
+        "id": "20000",
+        "code": "21100",
+        "name": "Kab. Garut"
+    },
+    {
+        "no": "182",
+        "id": "20000",
+        "code": "21200",
+        "name": "Kab. Tasikmalaya"
+    },
+    {
+        "no": "183",
+        "id": "30000",
+        "code": "30500",
+        "name": "Kab. Kebumen"
+    },
+    {
+        "no": "184",
+        "id": "30000",
+        "code": "31100",
+        "name": "Kab. Sukoharjo"
+    },
+    {
+        "no": "185",
+        "id": "30000",
+        "code": "31200",
+        "name": "Kab. Wonogiri"
+    },
+    {
+        "no": "186",
+        "id": "50000",
+        "code": "52600",
+        "name": "Kab. Pamekasan"
+    },
+    {
+        "no": "187",
+        "id": "50000",
+        "code": "52700",
+        "name": "Kab. Sampang"
+    },
+    {
+        "no": "188",
+        "id": "60000",
+        "code": "60200",
+        "name": "Kab. Pidie"
+    },
+    {
+        "no": "189",
+        "id": "60000",
+        "code": "66100",
+        "name": "Kota Banda Aceh"
+    },
+    {
+        "no": "190",
+        "id": "60000",
+        "code": "66200",
+        "name": "Kota Lhokseumawe"
+    },
+    {
+        "no": "191",
+        "id": "70000",
+        "code": "70500",
+        "name": "Kab. Dairi"
+    },
+    {
+        "no": "192",
+        "id": "70000",
+        "code": "70600",
+        "name": "Kab. Asahan"
+    },
+    {
+        "no": "193",
+        "id": "120000",
+        "code": "120800",
+        "name": "Kab. Way Kanan"
+    },
+    {
+        "no": "194",
+        "id": "120000",
+        "code": "120900",
+        "name": "Kab. Pesawaran"
+    },
+    {
+        "no": "195",
+        "id": "160000",
+        "code": "160200",
+        "name": "Kab. Kutai Kartanegara"
+    },
+    {
+        "no": "196",
+        "id": "160000",
+        "code": "160300",
+        "name": "Kab. Berau"
+    },
+    {
+        "no": "197",
+        "id": "170000",
+        "code": "170800",
+        "name": "Kab. Bolaang Mongondow Utara"
+    },
+    {
+        "no": "198",
+        "id": "170000",
+        "code": "170900",
+        "name": "Kab. Kepulauan Siau Tagulandang Biaro"
+    },
+    {
+        "no": "199",
+        "id": "170000",
+        "code": "171000",
+        "name": "Kab. Minahasa Tenggara"
+    },
+    {
+        "no": "200",
+        "id": "210000",
+        "code": "210300",
+        "name": "Kab. Buru"
+    },
+    {
+        "no": "201",
+        "id": "210000",
+        "code": "210400",
+        "name": "Kab. Kepulauan Tanimbar"
+    },
+    {
+        "no": "202",
+        "id": "210000",
+        "code": "210500",
+        "name": "Kab. Seram Bagian Barat"
+    },
+    {
+        "no": "203",
+        "id": "230000",
+        "code": "230500",
+        "name": "Kab. Dompu"
+    },
+    {
+        "no": "204",
+        "id": "230000",
+        "code": "230600",
+        "name": "Kab. Bima"
+    },
+    {
+        "no": "205",
+        "id": "250000",
+        "code": "250300",
+        "name": "Kab. Kepulauan Yapen"
+    },
+    {
+        "no": "206",
+        "id": "250000",
+        "code": "251800",
+        "name": "Kab. Tolikara"
+    },
+    {
+        "no": "207",
+        "id": "30000",
+        "code": "30600",
+        "name": "Kab. Purworejo"
+    },
+    {
+        "no": "208",
+        "id": "30000",
+        "code": "31300",
+        "name": "Kab. Karanganyar"
+    },
+    {
+        "no": "209",
+        "id": "50000",
+        "code": "51600",
+        "name": "Kab. Tulungagung"
+    },
+    {
+        "no": "210",
+        "id": "50000",
+        "code": "51700",
+        "name": "Kab. Trenggalek"
+    },
+    {
+        "no": "211",
+        "id": "50000",
+        "code": "51800",
+        "name": "Kab. Malang"
+    },
+    {
+        "no": "212",
+        "id": "60000",
+        "code": "60800",
+        "name": "Kab. Aceh Tenggara"
+    },
+    {
+        "no": "213",
+        "id": "60000",
+        "code": "66300",
+        "name": "Kota Langsa"
+    },
+    {
+        "no": "214",
+        "id": "60000",
+        "code": "66400",
+        "name": "Kota Subulussalam"
+    },
+    {
+        "no": "215",
+        "id": "70000",
+        "code": "70100",
+        "name": "Kab. Deli Serdang"
+    },
+    {
+        "no": "216",
+        "id": "110000",
+        "code": "111000",
+        "name": "Kab. Ogan Ilir"
+    },
+    {
+        "no": "217",
+        "id": "110000",
+        "code": "111100",
+        "name": "Kab. Empat Lawang"
+    },
+    {
+        "no": "218",
+        "id": "130000",
+        "code": "130900",
+        "name": "Kab. Landak"
+    },
+    {
+        "no": "219",
+        "id": "140000",
+        "code": "141200",
+        "name": "Kab. Murung Raya"
+    },
+    {
+        "no": "220",
+        "id": "140000",
+        "code": "141300",
+        "name": "Kab. Barito Timur"
+    },
+    {
+        "no": "221",
+        "id": "140000",
+        "code": "146000",
+        "name": "Kota Palangka Raya"
+    },
+    {
+        "no": "222",
+        "id": "150000",
+        "code": "150100",
+        "name": "Kab. Banjar"
+    },
+    {
+        "no": "223",
+        "id": "200000",
+        "code": "200500",
+        "name": "Kab. Konawe Selatan"
+    },
+    {
+        "no": "224",
+        "id": "210000",
+        "code": "210600",
+        "name": "Kab. Seram Bagian Timur"
+    },
+    {
+        "no": "225",
+        "id": "240000",
+        "code": "241500",
+        "name": "Kab. Rote-Ndao"
+    },
+    {
+        "no": "226",
+        "id": "240000",
+        "code": "241600",
+        "name": "Kab. Manggarai Barat"
+    },
+    {
+        "no": "227",
+        "id": "250000",
+        "code": "250800",
+        "name": "Kab. Jaya Wijaya"
+    },
+    {
+        "no": "228",
+        "id": "320000",
+        "code": "321100",
+        "name": "Kab. Pegunungan Arfak"
+    },
+    {
+        "no": "229",
+        "id": "340000",
+        "code": "340500",
+        "name": "Kab. Nunukan"
+    },
+    {
+        "no": "230",
+        "id": "20000",
+        "code": "26000",
+        "name": "Kota Bandung"
+    },
+    {
+        "no": "231",
+        "id": "20000",
+        "code": "26100",
+        "name": "Kota Bogor"
+    },
+    {
+        "no": "232",
+        "id": "20000",
+        "code": "26200",
+        "name": "Kota Sukabumi"
+    },
+    {
+        "no": "233",
+        "id": "20000",
+        "code": "26300",
+        "name": "Kota Cirebon"
+    },
+    {
+        "no": "234",
+        "id": "20000",
+        "code": "26500",
+        "name": "Kota Bekasi"
+    },
+    {
+        "no": "235",
+        "id": "20000",
+        "code": "26600",
+        "name": "Kota Depok"
+    },
+    {
+        "no": "236",
+        "id": "30000",
+        "code": "30700",
+        "name": "Kab. Wonosobo"
+    },
+    {
+        "no": "237",
+        "id": "30000",
+        "code": "30800",
+        "name": "Kab. Magelang"
+    },
+    {
+        "no": "238",
+        "id": "50000",
+        "code": "51100",
+        "name": "Kab. Ponorogo"
+    },
+    {
+        "no": "239",
+        "id": "60000",
+        "code": "60400",
+        "name": "Kab. Aceh Timur"
+    },
+    {
+        "no": "240",
+        "id": "60000",
+        "code": "61100",
+        "name": "Kab. Simeulue"
+    },
+    {
+        "no": "241",
+        "id": "100000",
+        "code": "106000",
+        "name": "Kota Jambi"
+    },
+    {
+        "no": "242",
+        "id": "100000",
+        "code": "106100",
+        "name": "Kota Sungai Penuh"
+    },
+    {
+        "no": "243",
+        "id": "130000",
+        "code": "130200",
+        "name": "Kab. Mempawah"
+    },
+    {
+        "no": "244",
+        "id": "130000",
+        "code": "130300",
+        "name": "Kab. Sanggau"
+    },
+    {
+        "no": "245",
+        "id": "130000",
+        "code": "130400",
+        "name": "Kab. Sintang"
+    },
+    {
+        "no": "246",
+        "id": "190000",
+        "code": "190200",
+        "name": "Kab. Pangkajene Kepulauan"
+    },
+    {
+        "no": "247",
+        "id": "190000",
+        "code": "190300",
+        "name": "Kab. Gowa"
+    },
+    {
+        "no": "248",
+        "id": "190000",
+        "code": "190400",
+        "name": "Kab. Takalar"
+    },
+    {
+        "no": "249",
+        "id": "220000",
+        "code": "220300",
+        "name": "Kab. Tabanan"
+    },
+    {
+        "no": "250",
+        "id": "240000",
+        "code": "240500",
+        "name": "Kab. Belu"
+    },
+    {
+        "no": "251",
+        "id": "280000",
+        "code": "280400",
+        "name": "Kab. Serang"
+    },
+    {
+        "no": "252",
+        "id": "320000",
+        "code": "320100",
+        "name": "Kab. Fak-Fak"
+    },
+    {
+        "no": "253",
+        "id": "320000",
+        "code": "320200",
+        "name": "Kab. Kaimana"
+    },
+    {
+        "no": "254",
+        "id": "20000",
+        "code": "21800",
+        "name": "Kab. Indramayu"
+    },
+    {
+        "no": "255",
+        "id": "20000",
+        "code": "21900",
+        "name": "Kab. Subang"
+    },
+    {
+        "no": "256",
+        "id": "30000",
+        "code": "30300",
+        "name": "Kab. Purbalingga"
+    },
+    {
+        "no": "257",
+        "id": "30000",
+        "code": "30400",
+        "name": "Kab. Banjarnegara"
+    },
+    {
+        "no": "258",
+        "id": "50000",
+        "code": "52400",
+        "name": "Kab. Jember"
+    },
+    {
+        "no": "259",
+        "id": "60000",
+        "code": "60500",
+        "name": "Kab. Aceh Tengah"
+    },
+    {
+        "no": "260",
+        "id": "60000",
+        "code": "61800",
+        "name": "Kab. Gayo Lues"
+    },
+    {
+        "no": "261",
+        "id": "100000",
+        "code": "100100",
+        "name": "Kab. Batang Hari"
+    },
+    {
+        "no": "262",
+        "id": "110000",
+        "code": "110500",
+        "name": "Kab. Lahat"
+    },
+    {
+        "no": "263",
+        "id": "140000",
+        "code": "140500",
+        "name": "Kab. Kotawaringin Barat"
+    },
+    {
+        "no": "264",
+        "id": "140000",
+        "code": "140600",
+        "name": "Kab. Katingan"
+    },
+    {
+        "no": "265",
+        "id": "190000",
+        "code": "191500",
+        "name": "Kab. Sidenreng Rappang"
+    },
+    {
+        "no": "266",
+        "id": "190000",
+        "code": "191600",
+        "name": "Kab. Enrekang"
+    },
+    {
+        "no": "267",
+        "id": "190000",
+        "code": "191700",
+        "name": "Kab. Luwu"
+    },
+    {
+        "no": "268",
+        "id": "200000",
+        "code": "200100",
+        "name": "Kab. Konawe"
+    },
+    {
+        "no": "269",
+        "id": "230000",
+        "code": "230300",
+        "name": "Kab. Lombok Timur"
+    },
+    {
+        "no": "270",
+        "id": "230000",
+        "code": "230400",
+        "name": "Kab. Sumbawa"
+    },
+    {
+        "no": "271",
+        "id": "320000",
+        "code": "320500",
+        "name": "Kab. Manokwari"
+    },
+    {
+        "no": "272",
+        "id": "320000",
+        "code": "320600",
+        "name": "Kab. Sorong Selatan"
+    },
+    {
+        "no": "273",
+        "id": "20000",
+        "code": "21700",
+        "name": "Kab. Cirebon"
+    },
+    {
+        "no": "274",
+        "id": "30000",
+        "code": "30900",
+        "name": "Kab. Boyolali"
+    },
+    {
+        "no": "275",
+        "id": "30000",
+        "code": "31000",
+        "name": "Kab. Klaten"
+    },
+    {
+        "no": "276",
+        "id": "70000",
+        "code": "71100",
+        "name": "Kab. Nias"
+    },
+    {
+        "no": "277",
+        "id": "70000",
+        "code": "71500",
+        "name": "Kab. Mandailing Natal"
+    },
+    {
+        "no": "278",
+        "id": "120000",
+        "code": "120600",
+        "name": "Kab. Tanggamus"
+    },
+    {
+        "no": "279",
+        "id": "140000",
+        "code": "140200",
+        "name": "Kab. Barito Selatan"
+    },
+    {
+        "no": "280",
+        "id": "140000",
+        "code": "140300",
+        "name": "Kab. Barito Utara"
+    },
+    {
+        "no": "281",
+        "id": "140000",
+        "code": "140400",
+        "name": "Kab. Kotawaringin Timur"
+    },
+    {
+        "no": "282",
+        "id": "260000",
+        "code": "266000",
+        "name": "Kota Bengkulu"
+    },
+    {
+        "no": "283",
+        "id": "270000",
+        "code": "270100",
+        "name": "Kab. Pulau Taliabu"
+    },
+    {
+        "no": "284",
+        "id": "270000",
+        "code": "270200",
+        "name": "Kab. Halmahera Tengah"
+    },
+    {
+        "no": "285",
+        "id": "30000",
+        "code": "30100",
+        "name": "Kab. Cilacap"
+    },
+    {
+        "no": "286",
+        "id": "30000",
+        "code": "32600",
+        "name": "Kab. Pekalongan"
+    },
+    {
+        "no": "287",
+        "id": "120000",
+        "code": "120200",
+        "name": "Kab. Lampung Tengah"
+    },
+    {
+        "no": "288",
+        "id": "120000",
+        "code": "120300",
+        "name": "Kab. Lampung Utara"
+    },
+    {
+        "no": "289",
+        "id": "150000",
+        "code": "150600",
+        "name": "Kab. Hulu Sungai Tengah"
+    },
+    {
+        "no": "290",
+        "id": "220000",
+        "code": "220500",
+        "name": "Kab. Gianyar"
+    },
+    {
+        "no": "291",
+        "id": "220000",
+        "code": "220600",
+        "name": "Kab. Klungkung"
+    },
+    {
+        "no": "292",
+        "id": "220000",
+        "code": "220700",
+        "name": "Kab. Bangli"
+    },
+    {
+        "no": "293",
+        "id": "220000",
+        "code": "220800",
+        "name": "Kab. Karang Asem"
+    },
+    {
+        "no": "294",
+        "id": "250000",
+        "code": "251400",
+        "name": "Kab. Mappi"
+    },
+    {
+        "no": "295",
+        "id": "150000",
+        "code": "150900",
+        "name": "Kab. Kotabaru"
+    },
+    {
+        "no": "296",
+        "id": "150000",
+        "code": "151000",
+        "name": "Kab. Balangan"
+    },
+    {
+        "no": "297",
+        "id": "190000",
+        "code": "190700",
+        "name": "Kab. Bone"
+    },
+    {
+        "no": "298",
+        "id": "70000",
+        "code": "71700",
+        "name": "Kab. Nias Selatan"
+    },
+    {
+        "no": "299",
+        "id": "170000",
+        "code": "170300",
+        "name": "Kab. Kep. Sangihe"
+    },
+    {
+        "no": "300",
+        "id": "120000",
+        "code": "120700",
+        "name": "Kab. Lampung Timur"
+    },
+    {
+        "no": "301",
+        "id": "40000",
+        "code": "46000",
+        "name": "Kota Yogyakarta"
+    },
+    {
+        "no": "302",
+        "id": "110000",
+        "code": "110200",
+        "name": "Kab. Ogan Komering Ilir"
+    },
+    {
+        "no": "303",
+        "id": "110000",
+        "code": "110400",
+        "name": "Kab. Muara Enim"
+    },
+    {
+        "no": "304",
+        "id": "20000",
+        "code": "22200",
+        "name": "Kab. Bekasi"
+    },
+    {
+        "no": "305",
+        "id": "20000",
+        "code": "22300",
+        "name": "Kab. Bandung Barat"
+    },
+    {
+        "no": "306",
+        "id": "20000",
+        "code": "22500",
+        "name": "Kab. Pangandaran"
+    },
+    {
+        "no": "307",
+        "id": "50000",
+        "code": "50300",
+        "name": "Kab. Mojokerto"
+    },
+    {
+        "no": "308",
+        "id": "70000",
+        "code": "71900",
+        "name": "Kab. Humbang Hasudutan"
+    },
+    {
+        "no": "309",
+        "id": "70000",
+        "code": "72000",
+        "name": "Kab. Samosir"
+    },
+    {
+        "no": "310",
+        "id": "130000",
+        "code": "131300",
+        "name": "Kab. Kuburaya"
+    },
+    {
+        "no": "311",
+        "id": "130000",
+        "code": "136000",
+        "name": "Kota Pontianak"
+    },
+    {
+        "no": "312",
+        "id": "150000",
+        "code": "150200",
+        "name": "Kab. Tanah Laut"
+    },
+    {
+        "no": "313",
+        "id": "180000",
+        "code": "181100",
+        "name": "Kab. Banggai Laut"
+    },
+    {
+        "no": "314",
+        "id": "180000",
+        "code": "181200",
+        "name": "Kab. Morowali Utara"
+    },
+    {
+        "no": "315",
+        "id": "240000",
+        "code": "240400",
+        "name": "Kab. Timor Tengah Utara"
+    },
+    {
+        "no": "316",
+        "id": "240000",
+        "code": "241700",
+        "name": "Kab. Nagakeo"
+    },
+    {
+        "no": "317",
+        "id": "20000",
+        "code": "22000",
+        "name": "Kab. Purwakarta"
+    },
+    {
+        "no": "318",
+        "id": "30000",
+        "code": "31900",
+        "name": "Kab. Kudus"
+    },
+    {
+        "no": "319",
+        "id": "30000",
+        "code": "32000",
+        "name": "Kab. Jepara"
+    },
+    {
+        "no": "320",
+        "id": "30000",
+        "code": "32100",
+        "name": "Kab. Demak"
+    },
+    {
+        "no": "321",
+        "id": "60000",
+        "code": "60600",
+        "name": "Kab. Aceh Barat"
+    },
+    {
+        "no": "322",
+        "id": "70000",
+        "code": "71600",
+        "name": "Kab. Toba Samosir"
+    },
+    {
+        "no": "323",
+        "id": "120000",
+        "code": "121000",
+        "name": "Kab. Pringsewu"
+    },
+    {
+        "no": "324",
+        "id": "170000",
+        "code": "171100",
+        "name": "Kab. Bolaang Mongondow Timur"
+    },
+    {
+        "no": "325",
+        "id": "170000",
+        "code": "171200",
+        "name": "Kab. Bolaang Mongondow Selatan"
+    },
+    {
+        "no": "326",
+        "id": "230000",
+        "code": "230700",
+        "name": "Kab. Sumbawa Barat"
+    },
+    {
+        "no": "327",
+        "id": "230000",
+        "code": "230800",
+        "name": "Kab. Lombok Utara"
+    },
+    {
+        "no": "328",
+        "id": "230000",
+        "code": "236000",
+        "name": "Kota Mataram"
+    },
+    {
+        "no": "329",
+        "id": "230000",
+        "code": "236100",
+        "name": "Kota Bima"
+    },
+    {
+        "no": "330",
+        "id": "240000",
+        "code": "241000",
+        "name": "Kab. Ngada"
+    },
+    {
+        "no": "331",
+        "id": "240000",
+        "code": "241100",
+        "name": "Kab. Manggarai"
+    },
+    {
+        "no": "332",
+        "id": "250000",
+        "code": "251900",
+        "name": "Kab. Sarmi"
+    },
+    {
+        "no": "333",
+        "id": "250000",
+        "code": "252000",
+        "name": "Kab. Keerom"
+    },
+    {
+        "no": "334",
+        "id": "20000",
+        "code": "21400",
+        "name": "Kab. Ciamis"
+    },
+    {
+        "no": "335",
+        "id": "20000",
+        "code": "22100",
+        "name": "Kab. Karawang"
+    },
+    {
+        "no": "336",
+        "id": "30000",
+        "code": "31400",
+        "name": "Kab. Sragen"
+    },
+    {
+        "no": "337",
+        "id": "30000",
+        "code": "31500",
+        "name": "Kab. Grobogan"
+    },
+    {
+        "no": "338",
+        "id": "50000",
+        "code": "52800",
+        "name": "Kab. Sumenep"
+    },
+    {
+        "no": "339",
+        "id": "70000",
+        "code": "70700",
+        "name": "Kab. Labuhan Batu"
+    },
+    {
+        "no": "340",
+        "id": "70000",
+        "code": "70800",
+        "name": "Kab. Tapanuli Utara"
+    },
+    {
+        "no": "341",
+        "id": "120000",
+        "code": "121100",
+        "name": "Kab. Mesuji"
+    },
+    {
+        "no": "342",
+        "id": "120000",
+        "code": "121200",
+        "name": "Kab. Tulang Bawang Barat"
+    },
+    {
+        "no": "343",
+        "id": "160000",
+        "code": "160900",
+        "name": "Kab. Kutai Barat"
+    },
+    {
+        "no": "344",
+        "id": "240000",
+        "code": "240100",
+        "name": "Kab. Kupang"
+    },
+    {
+        "no": "345",
+        "id": "250000",
+        "code": "250900",
+        "name": "Kab. Nabire"
+    },
+    {
+        "no": "346",
+        "id": "250000",
+        "code": "252600",
+        "name": "Kab. Waropen"
+    },
+    {
+        "no": "347",
+        "id": "250000",
+        "code": "252700",
+        "name": "Kab. Supiori"
+    },
+    {
+        "no": "348",
+        "id": "340000",
+        "code": "346000",
+        "name": "Kota Tarakan"
+    },
+    {
+        "no": "349",
+        "id": "350000",
+        "code": "350100",
+        "name": "Belanda"
+    },
+    {
+        "no": "350",
+        "id": "350000",
+        "code": "350200",
+        "name": "Japan"
+    },
+    {
+        "no": "351",
+        "id": "30000",
+        "code": "31700",
+        "name": "Kab. Rembang"
+    },
+    {
+        "no": "352",
+        "id": "50000",
+        "code": "52000",
+        "name": "Kab. Probolinggo"
+    },
+    {
+        "no": "353",
+        "id": "50000",
+        "code": "56100",
+        "name": "Kota Malang"
+    },
+    {
+        "no": "354",
+        "id": "60000",
+        "code": "61200",
+        "name": "Kab. Bireuen"
+    },
+    {
+        "no": "355",
+        "id": "70000",
+        "code": "70300",
+        "name": "Kab. Karo"
+    },
+    {
+        "no": "356",
+        "id": "110000",
+        "code": "110600",
+        "name": "Kab. Musi Rawas"
+    },
+    {
+        "no": "357",
+        "id": "110000",
+        "code": "110700",
+        "name": "Kab. Banyuasin"
+    },
+    {
+        "no": "358",
+        "id": "130000",
+        "code": "136100",
+        "name": "Kota Singkawang"
+    },
+    {
+        "no": "359",
+        "id": "140000",
+        "code": "140100",
+        "name": "Kab. Kapuas"
+    },
+    {
+        "no": "360",
+        "id": "190000",
+        "code": "190500",
+        "name": "Kab. Jeneponto"
+    },
+    {
+        "no": "361",
+        "id": "240000",
+        "code": "241900",
+        "name": "Kab. Sumba Barat Daya"
+    },
+    {
+        "no": "362",
+        "id": "240000",
+        "code": "242000",
+        "name": "Kab. Manggarai Timur"
+    },
+    {
+        "no": "363",
+        "id": "240000",
+        "code": "242100",
+        "name": "Kab. Sabu Raijua"
+    },
+    {
+        "no": "364",
+        "id": "240000",
+        "code": "242200",
+        "name": "Kab. Malaka"
+    },
+    {
+        "no": "365",
+        "id": "320000",
+        "code": "320300",
+        "name": "Kab. Teluk Wondama"
+    },
+    {
+        "no": "366",
+        "id": "320000",
+        "code": "320400",
+        "name": "Kab. Teluk Bintuni"
+    },
+    {
+        "no": "367",
+        "id": "20000",
+        "code": "21000",
+        "name": "Kab. Sumedang"
+    },
+    {
+        "no": "368",
+        "id": "50000",
+        "code": "52500",
+        "name": "Kab. Banyuwangi"
+    },
+    {
+        "no": "369",
+        "id": "60000",
+        "code": "61900",
+        "name": "Kab. Bener Meriah"
+    },
+    {
+        "no": "370",
+        "id": "70000",
+        "code": "70400",
+        "name": "Kab. Simalungun"
+    },
+    {
+        "no": "371",
+        "id": "140000",
+        "code": "140700",
+        "name": "Kab. Seruyan"
+    },
+    {
+        "no": "372",
+        "id": "140000",
+        "code": "140800",
+        "name": "Kab. Sukamara"
+    },
+    {
+        "no": "373",
+        "id": "200000",
+        "code": "200200",
+        "name": "Kab. Muna"
+    },
+    {
+        "no": "374",
+        "id": "330000",
+        "code": "330300",
+        "name": "Kab. Polewali Mandar"
+    },
+    {
+        "no": "375",
+        "id": "330000",
+        "code": "330400",
+        "name": "Kab. Mamasa"
+    },
+    {
+        "no": "376",
+        "id": "30000",
+        "code": "36000",
+        "name": "Kota Magelang"
+    },
+    {
+        "no": "377",
+        "id": "30000",
+        "code": "36200",
+        "name": "Kota Salatiga"
+    },
+    {
+        "no": "378",
+        "id": "30000",
+        "code": "36300",
+        "name": "Kota Semarang"
+    },
+    {
+        "no": "379",
+        "id": "80000",
+        "code": "81200",
+        "name": "Kab. Dharmasraya"
+    },
+    {
+        "no": "380",
+        "id": "80000",
+        "code": "81300",
+        "name": "Kab. Pasaman Barat"
+    },
+    {
+        "no": "381",
+        "id": "80000",
+        "code": "86000",
+        "name": "Kota Bukittinggi"
+    },
+    {
+        "no": "382",
+        "id": "80000",
+        "code": "86100",
+        "name": "Kota Padang"
+    },
+    {
+        "no": "383",
+        "id": "80000",
+        "code": "86200",
+        "name": "Kota Padang Panjang"
+    },
+    {
+        "no": "384",
+        "id": "80000",
+        "code": "86300",
+        "name": "Kota Sawah Lunto"
+    },
+    {
+        "no": "385",
+        "id": "170000",
+        "code": "170400",
+        "name": "Kab. Kepulauan Talaud"
+    },
+    {
+        "no": "386",
+        "id": "270000",
+        "code": "270300",
+        "name": "Kab. Halmahera Barat"
+    },
+    {
+        "no": "387",
+        "id": "30000",
+        "code": "32700",
+        "name": "Kab. Pemalang"
+    },
+    {
+        "no": "388",
+        "id": "50000",
+        "code": "52100",
+        "name": "Kab. Lumajang"
+    },
+    {
+        "no": "389",
+        "id": "150000",
+        "code": "150700",
+        "name": "Kab. Hulu Sungai Utara"
+    },
+    {
+        "no": "390",
+        "id": "150000",
+        "code": "150800",
+        "name": "Kab. Tabalong"
+    },
+    {
+        "no": "391",
+        "id": "190000",
+        "code": "190600",
+        "name": "Kab. Barru"
+    },
+    {
+        "no": "392",
+        "id": "250000",
+        "code": "251500",
+        "name": "Kab. Asmat"
+    },
+    {
+        "no": "393",
+        "id": "70000",
+        "code": "72500",
+        "name": "Kab. Labuhan Batu Utara"
+    },
+    {
+        "no": "394",
+        "id": "70000",
+        "code": "72600",
+        "name": "Kab. Labuhan Batu Selatan"
+    },
+    {
+        "no": "395",
+        "id": "70000",
+        "code": "72700",
+        "name": "Kab. Nias Barat"
+    },
+    {
+        "no": "396",
+        "id": "190000",
+        "code": "190800",
+        "name": "Kab. Wajo"
+    },
+    {
+        "no": "397",
+        "id": "190000",
+        "code": "190900",
+        "name": "Kab. Soppeng"
+    },
+    {
+        "no": "398",
+        "id": "190000",
+        "code": "191000",
+        "name": "Kab. Bantaeng"
+    },
+    {
+        "no": "399",
+        "id": "220000",
+        "code": "226000",
+        "name": "Kota Denpasar"
+    },
+    {
+        "no": "400",
+        "id": "230000",
+        "code": "230100",
+        "name": "Kab. Lombok Barat"
+    },
+    {
+        "no": "401",
+        "id": "150000",
+        "code": "150300",
+        "name": "Kab. Barito Kuala"
+    },
+    {
+        "no": "402",
+        "id": "160000",
+        "code": "161000",
+        "name": "Kab. Kutai Timur"
+    },
+    {
+        "no": "403",
+        "id": "160000",
+        "code": "161100",
+        "name": "Kab. Penajam Paser Utara"
+    },
+    {
+        "no": "404",
+        "id": "160000",
+        "code": "161200",
+        "name": "Kab. Mahakam Ulu"
+    },
+    {
+        "no": "405",
+        "id": "250000",
+        "code": "251000",
+        "name": "Kab. Paniai"
+    },
+    {
+        "no": "406",
+        "id": "60000",
+        "code": "62000",
+        "name": "Kab. Pidie Jaya"
+    },
+    {
+        "no": "407",
+        "id": "60000",
+        "code": "66000",
+        "name": "Kota Sabang"
+    },
+    {
+        "no": "408",
+        "id": "140000",
+        "code": "140900",
+        "name": "Kab. Lamandau"
+    },
+    {
+        "no": "409",
+        "id": "140000",
+        "code": "141000",
+        "name": "Kab. Gunung Mas"
+    },
+    {
+        "no": "410",
+        "id": "240000",
+        "code": "241200",
+        "name": "Kab. Sumba Timur"
+    },
+    {
+        "no": "411",
+        "id": "240000",
+        "code": "241300",
+        "name": "Kab. Sumba Barat"
+    },
+    {
+        "no": "412",
+        "id": "250000",
+        "code": "250200",
+        "name": "Kab. Biak Numfor"
+    },
+    {
+        "no": "413",
+        "id": "130000",
+        "code": "130800",
+        "name": "Kab. Bengkayang"
+    },
+    {
+        "no": "414",
+        "id": "240000",
+        "code": "241400",
+        "name": "Kab. Lembata"
+    },
+    {
+        "no": "415",
+        "id": "20000",
+        "code": "21600",
+        "name": "Kab. Majalengka"
+    },
+    {
+        "no": "416",
+        "id": "50000",
+        "code": "56200",
+        "name": "Kota Madiun"
+    },
+    {
+        "no": "417",
+        "id": "50000",
+        "code": "56300",
+        "name": "Kota Kediri"
+    },
+    {
+        "no": "418",
+        "id": "50000",
+        "code": "56400",
+        "name": "Kota Mojokerto"
+    },
+    {
+        "no": "419",
+        "id": "50000",
+        "code": "56500",
+        "name": "Kota Blitar"
+    },
+    {
+        "no": "420",
+        "id": "50000",
+        "code": "56600",
+        "name": "Kota Pasuruan"
+    },
+    {
+        "no": "421",
+        "id": "50000",
+        "code": "56700",
+        "name": "Kota Probolinggo"
+    },
+    {
+        "no": "422",
+        "id": "50000",
+        "code": "56800",
+        "name": "Kota Batu"
+    },
+    {
+        "no": "423",
+        "id": "110000",
+        "code": "116200",
+        "name": "Kota Lubuk Linggau"
+    },
+    {
+        "no": "424",
+        "id": "110000",
+        "code": "116300",
+        "name": "Kota Pagar Alam"
+    },
+    {
+        "no": "425",
+        "id": "120000",
+        "code": "120100",
+        "name": "Kab. Lampung Selatan"
+    },
+    {
+        "no": "426",
+        "id": "200000",
+        "code": "200900",
+        "name": "Kab. Konawe Utara"
+    },
+    {
+        "no": "427",
+        "id": "200000",
+        "code": "201000",
+        "name": "Kab. Buton Utara"
+    },
+    {
+        "no": "428",
+        "id": "200000",
+        "code": "201100",
+        "name": "Kab. Kolaka Timur"
+    },
+    {
+        "no": "429",
+        "id": "200000",
+        "code": "206100",
+        "name": "Kota Baubau"
+    },
+    {
+        "no": "430",
+        "id": "210000",
+        "code": "210100",
+        "name": "Kab. Maluku Tengah"
+    },
+    {
+        "no": "431",
+        "id": "80000",
+        "code": "86400",
+        "name": "Kota Solok"
+    },
+    {
+        "no": "432",
+        "id": "20000",
+        "code": "26700",
+        "name": "Kota Cimahi"
+    },
+    {
+        "no": "433",
+        "id": "20000",
+        "code": "26800",
+        "name": "Kota Tasikmalaya"
+    },
+    {
+        "no": "434",
+        "id": "20000",
+        "code": "26900",
+        "name": "Kota Banjar"
+    },
+    {
+        "no": "435",
+        "id": "220000",
+        "code": "220400",
+        "name": "Kab. Badung"
+    },
+    {
+        "no": "436",
+        "id": "110000",
+        "code": "110300",
+        "name": "Kab. Ogan Komering Ulu"
+    },
+    {
+        "no": "437",
+        "id": "110000",
+        "code": "111200",
+        "name": "Kab. Penukal Abab Lematang Ilir"
+    },
+    {
+        "no": "438",
+        "id": "110000",
+        "code": "111300",
+        "name": "Kab. Musi Rawas Utara"
+    },
+    {
+        "no": "439",
+        "id": "250000",
+        "code": "251100",
+        "name": "Kab. Puncak Jaya"
+    },
+    {
+        "no": "440",
+        "id": "250000",
+        "code": "252900",
+        "name": "Kab. Nduga"
+    },
+    {
+        "no": "441",
+        "id": "140000",
+        "code": "141100",
+        "name": "Kab. Pulang Pisau"
+    },
+    {
+        "no": "442",
+        "id": "160000",
+        "code": "160100",
+        "name": "Kab. Paser"
+    },
+    {
+        "no": "443",
+        "id": "60000",
+        "code": "60700",
+        "name": "Kab. Aceh Selatan"
+    },
+    {
+        "no": "444",
+        "id": "190000",
+        "code": "192700",
+        "name": "Kab. Toraja Utara"
+    },
+    {
+        "no": "445",
+        "id": "80000",
+        "code": "80800",
+        "name": "Kab. Sijunjung"
+    },
+    {
+        "no": "446",
+        "id": "80000",
+        "code": "81000",
+        "name": "Kab. Kepulauan Mentawai"
+    },
+    {
+        "no": "447",
+        "id": "80000",
+        "code": "81100",
+        "name": "Kab. Solok Selatan"
+    },
+    {
+        "no": "448",
+        "id": "210000",
+        "code": "216000",
+        "name": "Kota Ambon"
+    },
+    {
+        "no": "449",
+        "id": "210000",
+        "code": "216100",
+        "name": "Kota Tual"
+    },
+    {
+        "no": "450",
+        "id": "220000",
+        "code": "220100",
+        "name": "Kab. Buleleng"
+    },
+    {
+        "no": "451",
+        "id": "220000",
+        "code": "220200",
+        "name": "Kab. Jembrana"
+    },
+    {
+        "no": "452",
+        "id": "50000",
+        "code": "50600",
+        "name": "Kab. Tuban"
+    },
+    {
+        "no": "453",
+        "id": "50000",
+        "code": "51300",
+        "name": "Kab. Kediri"
+    },
+    {
+        "no": "454",
+        "id": "270000",
+        "code": "270400",
+        "name": "Kab. halmahera Utara"
+    },
+    {
+        "no": "455",
+        "id": "120000",
+        "code": "120400",
+        "name": "Kab. Lampung Barat"
+    },
+    {
+        "no": "456",
+        "id": "120000",
+        "code": "120500",
+        "name": "Kab. Tulang Bawang"
+    },
+    {
+        "no": "457",
+        "id": "50000",
+        "code": "50900",
+        "name": "Kab. Ngawi"
+    },
+    {
+        "no": "458",
+        "id": "80000",
+        "code": "80500",
+        "name": "Kab. Padang Pariaman"
+    },
+    {
+        "no": "459",
+        "id": "80000",
+        "code": "80600",
+        "name": "Kab. Pesisir Selatan"
+    },
+    {
+        "no": "460",
+        "id": "180000",
+        "code": "186000",
+        "name": "Kota Palu"
+    },
+    {
+        "no": "461",
+        "id": "190000",
+        "code": "190100",
+        "name": "Kab. Maros"
+    },
+    {
+        "no": "462",
+        "id": "190000",
+        "code": "196000",
+        "name": "Kota Makassar"
+    },
+    {
+        "no": "463",
+        "id": "310000",
+        "code": "310300",
+        "name": "Kab. Natuna"
+    },
+    {
+        "no": "464",
+        "id": "310000",
+        "code": "310400",
+        "name": "Kab. Lingga"
+    },
+    {
+        "no": "465",
+        "id": "40000",
+        "code": "40400",
+        "name": "Kab. Kulon Progo"
+    },
+    {
+        "no": "466",
+        "id": "50000",
+        "code": "50100",
+        "name": "Kab. Gresik"
+    },
+    {
+        "no": "467",
+        "id": "70000",
+        "code": "76200",
+        "name": "Kota Tebing Tinggi"
+    },
+    {
+        "no": "468",
+        "id": "70000",
+        "code": "76300",
+        "name": "Kota Pematangsiantar"
+    },
+    {
+        "no": "469",
+        "id": "70000",
+        "code": "76400",
+        "name": "Kota Tanjung Balai"
+    },
+    {
+        "no": "470",
+        "id": "70000",
+        "code": "76500",
+        "name": "Kota Sibolga"
+    },
+    {
+        "no": "471",
+        "id": "70000",
+        "code": "76600",
+        "name": "Kota Padang Sidimpuan"
+    },
+    {
+        "no": "472",
+        "id": "180000",
+        "code": "180800",
+        "name": "Kab. Parigi Moutong"
+    },
+    {
+        "no": "473",
+        "id": "260000",
+        "code": "260200",
+        "name": "Kab. Rejang Lebong"
+    },
+    {
+        "no": "474",
+        "id": "260000",
+        "code": "260300",
+        "name": "Kab. Bengkulu Selatan"
+    },
+    {
+        "no": "475",
+        "id": "30000",
+        "code": "32200",
+        "name": "Kab. Semarang"
+    },
+    {
+        "no": "476",
+        "id": "70000",
+        "code": "71800",
+        "name": "Kab. Pakpak Bharat"
+    },
+    {
+        "no": "477",
+        "id": "170000",
+        "code": "176000",
+        "name": "Kota Manado"
+    },
+    {
+        "no": "478",
+        "id": "170000",
+        "code": "176100",
+        "name": "Kota Bitung"
+    },
+    {
+        "no": "479",
+        "id": "170000",
+        "code": "176200",
+        "name": "Kota Tomohon"
+    },
+    {
+        "no": "480",
+        "id": "250000",
+        "code": "252800",
+        "name": "Kab. Memberamo Raya"
+    },
+    {
+        "no": "481",
+        "id": "260000",
+        "code": "260400",
+        "name": "Kab. Muko-muko"
+    },
+    {
+        "no": "482",
+        "id": "30000",
+        "code": "31800",
+        "name": "Kab. Pati"
+    },
+    {
+        "no": "483",
+        "id": "150000",
+        "code": "150400",
+        "name": "Kab. Tapin"
+    },
+    {
+        "no": "484",
+        "id": "150000",
+        "code": "150500",
+        "name": "Kab. Hulu Sungai Selatan"
+    },
+    {
+        "no": "485",
+        "id": "250000",
+        "code": "251200",
+        "name": "Kab. Mimika"
+    },
+    {
+        "no": "486",
+        "id": "250000",
+        "code": "251300",
+        "name": "Kab. Boven Digoel"
+    },
+    {
+        "no": "487",
+        "id": "150000",
+        "code": "151100",
+        "name": "Kab. Tanah Bumbu"
+    },
+    {
+        "no": "488",
+        "id": "150000",
+        "code": "156000",
+        "name": "Kota Banjarmasin"
+    },
+    {
+        "no": "489",
+        "id": "150000",
+        "code": "156100",
+        "name": "Kota Banjarbaru"
+    },
+    {
+        "no": "490",
+        "id": "170000",
+        "code": "170500",
+        "name": "Kab. Minahasa Selatan"
+    },
+    {
+        "no": "491",
+        "id": "240000",
+        "code": "246000",
+        "name": "Kota Kupang"
+    },
+    {
+        "no": "492",
+        "id": "250000",
+        "code": "250100",
+        "name": "Kab. Jayapura"
+    },
+    {
+        "no": "493",
+        "id": "50000",
+        "code": "51200",
+        "name": "Kab. Pacitan"
+    },
+    {
+        "no": "494",
+        "id": "190000",
+        "code": "191100",
+        "name": "Kab. Bulukumba"
+    },
+    {
+        "no": "495",
+        "id": "190000",
+        "code": "191200",
+        "name": "Kab. Sinjai"
+    },
+    {
+        "no": "496",
+        "id": "280000",
+        "code": "286000",
+        "name": "Kota Cilegon"
+    },
+    {
+        "no": "497",
+        "id": "280000",
+        "code": "286100",
+        "name": "Kota Tangerang"
+    },
+    {
+        "no": "498",
+        "id": "30000",
+        "code": "30200",
+        "name": "Kab. Banyumas"
+    },
+    {
+        "no": "499",
+        "id": "230000",
+        "code": "230200",
+        "name": "Kab. Lombok Tengah"
+    },
+    {
+        "no": "500",
+        "id": "190000",
+        "code": "196100",
+        "name": "Kota Parepare"
+    },
+    {
+        "no": "501",
+        "id": "190000",
+        "code": "196200",
+        "name": "Kota Palopo"
+    },
+    {
+        "no": "502",
+        "id": "200000",
+        "code": "200600",
+        "name": "Kab. Wakatobi"
+    },
+    {
+        "no": "503",
+        "id": "310000",
+        "code": "310500",
+        "name": "Kab. Kepulauan Anambas"
+    },
+    {
+        "no": "504",
+        "id": "310000",
+        "code": "316000",
+        "name": "Kota Batam"
+    },
+    {
+        "no": "505",
+        "id": "310000",
+        "code": "316100",
+        "name": "Kota Tanjungpinang"
+    },
+    {
+        "no": "506",
+        "id": "320000",
+        "code": "321200",
+        "name": "Kab. Manokwari Selatan"
+    },
+    {
+        "no": "507",
+        "id": "70000",
+        "code": "76700",
+        "name": "Kota Gunungsitoli"
+    },
+    {
+        "no": "508",
+        "id": "80000",
+        "code": "80100",
+        "name": "Kab. Agam"
+    },
+    {
+        "no": "509",
+        "id": "190000",
+        "code": "191800",
+        "name": "Kab. Tana Toraja"
+    },
+    {
+        "no": "510",
+        "id": "270000",
+        "code": "270600",
+        "name": "Kab. Halmahera Timur"
+    },
+    {
+        "no": "511",
+        "id": "270000",
+        "code": "270700",
+        "name": "Kab. Kepulauan Sula"
+    },
+    {
+        "no": "512",
+        "id": "270000",
+        "code": "270800",
+        "name": "Kab. Kepulauan Morotai"
+    },
+    {
+        "no": "513",
+        "id": "80000",
+        "code": "80200",
+        "name": "Kab. Pasaman"
+    },
+    {
+        "no": "514",
+        "id": "80000",
+        "code": "80300",
+        "name": "Kab. Lima Puluh Koto"
+    },
+    {
+        "no": "515",
+        "id": "170000",
+        "code": "176300",
+        "name": "Kota Kotamobagu"
+    },
+    {
+        "no": "516",
+        "id": "180000",
+        "code": "180900",
+        "name": "Kab. Tojo Una-Una"
+    },
+    {
+        "no": "517",
+        "id": "270000",
+        "code": "276000",
+        "name": "Kota Ternate"
+    },
+    {
+        "no": "518",
+        "id": "30000",
+        "code": "32500",
+        "name": "Kab. Batang"
+    },
+    {
+        "no": "519",
+        "id": "30000",
+        "code": "36400",
+        "name": "Kota Pekalongan"
+    },
+    {
+        "no": "520",
+        "id": "30000",
+        "code": "36500",
+        "name": "Kota Tegal"
+    },
+    {
+        "no": "521",
+        "id": "170000",
+        "code": "170600",
+        "name": "Kab. Minahasa Utara"
+    },
+    {
+        "no": "522",
+        "id": "190000",
+        "code": "191300",
+        "name": "Kab. Kepulauan Selayar"
+    },
+    {
+        "no": "523",
+        "id": "200000",
+        "code": "201200",
+        "name": "Kab. Konawe Kepulauan"
+    },
+    {
+        "no": "524",
+        "id": "200000",
+        "code": "201300",
+        "name": "Kab. Muna Barat"
+    },
+    {
+        "no": "525",
+        "id": "60000",
+        "code": "61300",
+        "name": "Kab. Aceh Singkil"
+    },
+    {
+        "no": "526",
+        "id": "350000",
+        "code": "350300",
+        "name": "Mesir"
+    },
+    {
+        "no": "527",
+        "id": "350000",
+        "code": "351000",
+        "name": "Singapura"
+    }
+]
